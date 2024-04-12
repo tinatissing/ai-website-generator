@@ -16,13 +16,13 @@ This is a simple tool that lets you create websites using the Gemini AI model. Y
 
 ## Installation
 1. Clone the repository:
-    git clone https://github.com/tinatissing/ai-website-generator.git
-    cd ai-website-generator
+    - git clone https://github.com/tinatissing/ai-website-generator.git
+    - cd ai-website-generator
 2. Setup Virtual Environment
-    python -m venv venv (name of the virtual environment)
-    cd venv
-    Scripts/Activate (for Windows)
-    cd ..
+    - python -m venv venv (name of the virtual environment)
+    - cd venv
+    - Scripts/Activate (for Windows)
+    - cd ..
 3. Install dependencies:
     pip install -r requirements.txt
 4. Run the app:
