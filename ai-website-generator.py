@@ -4,7 +4,7 @@
 import dspy
 
 gemini = dspy.Google("models/gemini-1.0-pro",
-                        api_key='',
+                        api_key='YOUR_API_KEY',
                         temperature=0)
 dspy.settings.configure(lm=gemini, max_tokens=1024)
 
