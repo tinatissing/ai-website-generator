@@ -46,7 +46,7 @@ This is a simple tool that lets you create websites using the Gemini AI model. Y
 ## Usage
 To change the theme of the website, update the website subject.
 
-## Potential Error
+## Troubleshooting:
 If you encounter the following error after ensuring the API Key is working:
 
 `IndexError: list index out of range`
@@ -68,3 +68,5 @@ except:
     print("Expected Error")
 
 ```
+
+### If the above does not fix it then you may have to keep changing the prompt until it works.
